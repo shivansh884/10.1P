@@ -21,7 +21,7 @@ async function sendMail(toEmail) {
         from: 'nodemail863@gmail.com',
         to: toEmail,
         subject: 'Welcome to Dev@deakin',
-        text: 'Welcome to Dev@deakin! Stay tuned for updates.',
+        text: 'Welcome to Dev@deakin! Stay updated.',
     };
 
     try {
